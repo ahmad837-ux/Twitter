@@ -1,0 +1,20 @@
+#left div{
+    margin: 25px;
+    font-size: 20px;
+}
+#left div:hover{
+      color: #1A8CD8;
+ cursor: pointer;
+
+}
+#filter:hover{
+    cursor: pointer;
+    color: #1A8CD8;
+}
+.input{
+    padding: 30px;
+    border: none;
+}
+.input:focus{
+    outline: none;
+}
