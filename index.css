@@ -2,8 +2,22 @@
     margin: 25px;
     font-size: 20px;
 }
+#emoji div{
+    margin-left: 30px;
+
+}
+#emoji div:hover{
+ 
+    color:#1A8CD8 ;
+cursor: pointer ;
+}
+
 #left div:hover{
-      color: #1A8CD8;
+      color:white;
+      background-color:#1A8CD8;
+      border: solid;
+      border-radius: 30px;
+      padding: 5px;
  cursor: pointer;
 
 }
