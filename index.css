@@ -9,12 +9,19 @@
 
 
 #right{
-    margin-top: 20px;
-    background-color: #EFF3F4;
+    margin-top: 30px;
+
+}
+#item{
+    margin-left: 50px;
 }
 .end{
     background-color: #EFF3F4;
-    
+    height: 900px;
+    width: auto;
+    border: thin;
+    border-radius: 50px;
+border: 0px 0px 0px 0px;
 }
 
 
