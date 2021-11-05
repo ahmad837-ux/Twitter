@@ -6,6 +6,35 @@
     margin-left: 30px;
 
 }
+
+
+#right{
+    margin-top: 20px;
+    background-color: #EFF3F4;
+}
+.end{
+    background-color: #EFF3F4;
+    
+}
+
+
+.top{
+margin-top: 10px;
+    padding: 10px 150px 10px 5px ;
+    border-color: #1A8CD8;
+    border-radius: 50px;
+    background-color: #EFF3F4;
+    
+}
+.top:focus{
+
+background-color:white;
+
+}
+  
+ 
+
+
 #emoji div:hover{
  
     color:#1A8CD8 ;
