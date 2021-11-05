@@ -9,7 +9,9 @@
 
 
 #right{
-    margin-top: 30px;
+    margin-top: 40px;
+    margin-left: 30px;
+    padding-top: 15px ;
 
 }
 #item{
@@ -17,7 +19,7 @@
 }
 .end{
     background-color: #EFF3F4;
-    height: 900px;
+    height: 600px;
     width: auto;
     border: thin;
     border-radius: 50px;
